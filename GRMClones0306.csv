@@ -1,0 +1,81 @@
+CID,BID,LID,CloneComposition,Induction,Fixation,Ntotal,NRed,NGreen,ABA #,BrainRegion,GTotal,GRed,GGreen,Representative Image,SingleClone 3D,OTotal,ORed,OGreen,ATotal,ARed,AGreen,Note,APiaL1,OPiaL1,NL23,AL23,OL23,NL4,OL4,AL4,NL5,OL5,AL5,NL6,OL6,AL6,OWM,AWM
+1,1,3,NAO,E14o,P14,1,1,0,44,ACAv,11,0,11,Untitled.bmp,Untitled.bmp,5,0,5,6,0,6,,4,,1,2,,,,,,5,,,,,,
+7,3,2,NA,E14o,P34,6,1,5,44,SSp,22,0,22,Untitled.pdf,Untitled.wmf,0,0,0,22,0,22,,5,,6,7,,,,,,,,,,10,,
+14,3,2,NA,E14o,P34,2,2,0,63,SSp,14,0,14,Untitled.pdf,Untitled.wmf,0,0,0,14,0,14,,,,2,,,,,2,,,8,,,4,,
+48,5,2,NAO,E14o,P34,3,3,0,64,SSp,14,14,0,Untitled.pdf,Untitled.wmf,8,8,0,6,6,0,,2,,3,4,,,,,,,,,8,,,
+50,5,2,NA,E14o,P34,4,1,3,76,PTLp,3,0,3,Untitled.pdf,,0,0,0,3,0,3,,,,,,,,,,,,,,,,,
+52,6,2,NO,E14o,P34,1,1,0,57,ACAv,4,0,4,Untitled.wmf,,4,0,4,0,0,0,,,,1,,,,,,,,,,,,4,
+95,15,1,NAO,E14ip,P34,2,1,1,78,PTLp,9,0,9,Untitled.pdf,,8,0,8,1,0,1,,1,,2,,,,,,,3,,,5,,,
+105,17,1,NA,E14ip,P34,3,1,2,70,MOp,4,4,0,Untitled.pdf,,0,0,0,4,4,0,,,,2,,,1,,,,,,,,4,,
+109,18,8,NO,E14o,P31,1,0,1,48,ACAv/d,4,0,4,Untitled.pdf,,4,0,4,0,0,0,,,,1,,,,,,,,,,4,,,
+110,18,8,NA,E14o,P31,3,1,2,52,MOs,10,0,10,Untitled.pdf,,0,0,0,10,0,10,,2,,2,3,,,,,1,,2,,,3,,
+113,18,8,NA,E14o,P31,3,1,2,55,MOp,2,2,0,Untitled.pdf,,0,0,0,2,2,0,,,,3,,,,,,,,,,,,,2
+122,19,8,NO,E14o,P31,5,3,2,71,MOp,3,3,0,Untitled.pdf,,3,3,0,0,0,0,,,,3,,,,,,1,,,,3,,,
+123,19,8,NA,E14o,P31,3,2,1,77,AUDd,7,1,6,Untitled.pdf,,0,0,0,7,1,6,"CONFOCAL!
+although Gas in two different layers, very close together. Two RG transition?
+Red cell has glial morphology, but doesn't look like other astrocytes",,,1,,,2,,,,,4,,,2,,2
+127,20,9,NO,E13o,P32,6,2,4,41,MOs,5,0,5,Untitled.pdf,,5,0,5,0,0,0,medial**,,5,3,,,,,,1,,,2,,,,
+129,20,9,NO,E13o,P32,2,1,1,42,SSp,2,0,2,Untitled.pdf,,2,0,2,0,0,0,,,,1,,,,,,,,,1,2,,,
+133,20,9,NA,E13o,P32,12,5,7,77,SSp,2,2,0,Untitled.pdf,,0,0,0,2,2,0,,,,1,,,8,,,1,,,2,,,,2
+157,22,11,NA,E14o,P17,5,1,4,64,SSp,9,0,9,Untitled.wmf,Untitled.wmf,0,0,0,9,0,9,,7,,3,,,1,,2,,,,,,,,
+158,22,11,NAO,E14o,P17,7,1,6,63,SSp,20,20,0,Untitled.wmf,Untitled.wmf,9,9,0,11,11,0,,,,,,,,,,,,,,,,,
+162,22,11,NA,E14o,P17,1,0,1,75,PTLp,9,1,8,Untitled.wmf,Untitled.wmf,0,0,0,9,1,8,"glia in both colors
+
+3 green clusters + 1red cluster",,,1,,,,,,,,5,,,,,2
+166,23,12,NA,E14o,P29,1,1,0,37,ILA,10,3,7,Untitled.wmf,Untitled.wmf,0,0,0,10,3,7,": *manually added more sup green astro in sec 23 based on 20x image and using nearby neruon as reference
+glia in two colors
+
+count is green clusters",,,,,,,,,,,,,,,,
+180,23,12,NA,E14o,P29,6,5,1,80,PTLp,15,15,0,Untitled.wmf,,0,0,0,15,15,0,#75: cluster 2: 3 rAstros. A lot of overlap with prev section confirm count by confocal,,,,,,,,,,,,,,,,
+190,24,13,NAO,E14o,P30,3,1,2,74,SSp,5,5,0,Untitled.wmf,Untitled.wmf,2,2,0,3,3,0,,,,3,,,,,,,,,,,,2,3
+194,25,13,NO,E14o,P30,3,2,1,77,RSPv,18,18,0,Untitled.wmf,Untitled.wmf,18,18,0,0,0,0,,,,4,,,,,,,,,,18,,,
+195,25,13,NA,E14o,P30,2,1,1,78,RSPv,3,3,0,Untitled.wmf,Untitled.wmf,0,0,0,3,3,0,,,,2,,,,,,,,2,,,1,,
+196,25,13,NA,E14o,P30,1,0,1,79,AUDv,14,14,0,Untitled.wmf,Untitled.bmp,0,0,0,14,14,0,,,,,,,,,,,,,,,,,
+201,26,14,NA,E15o,P27,3,2,1,41,ACAd,5,5,0,Untitled.wmf,Untitled.bmp,0,0,0,5,5,0,,,,3,,,,,,,,,,,3,,2
+215,27,15,NA,E15o,P22,4,2,2,41,MOp,1,1,0,Untitled.wmf,Untitled.bmp,0,0,0,1,1,0,,,,4,,,,,,,,,,,,,1
+223,27,15,NA,E15o,P22,2,1,1,86,VISal,9,0,9,Untitled.wmf,,0,0,0,9,0,9,confirm with confocal-- count is estimate,,,,,,,,,,,,,,,,
+230,28,16,NA,E16o,P31,1,1,0,64,MOp,6,0,6,Untitled.wmf,Untitled.wmf,0,0,0,6,0,6,,,,,,,,,,,,,,,,,
+232,28,16,NA,E16o,P31,1,0,1,68,SSp,5,0,5,Untitled.wmf,Untitled.wmf,0,0,0,5,0,5,,,,2,,,,,,,,5,,,,,
+234,28,16,NA,E16o,P31,3,2,1,78,SSp,18,18,0,Untitled.wmf,,0,0,0,18,18,0,"IP transition???
+lots of overlap of cells - confocal for final confirmation of quantification close to clone i . confocal also sec 38",,,,,,,,,,,,,,,,
+252,29,19,NA,E13o,P27,4,2,2,42,ILA,7,7,0,Untitled.wmf,Untitled.wmf,0,0,0,7,7,0,3 VZ cells not counted,,,,,,,,,,,,,,,,
+262,29,19,NA,E13o,P27,5,1,4,55,MOs,8,0,8,Untitled.wmf,,0,0,0,8,0,8,,,,,,,,,,,,,,,,,
+269,29,19,NO,E13o,P27,9,2,7,68,MOp,6,6,0,Untitled.wmf,Untitled.wmf,6,6,0,0,0,0,,,,6,,,,,,2,,,1,,,6,
+272,29,19,NO,E13o,P27,4,3,1,72,MOp,5,0,5,Untitled.wmf,Untitled.wmf,5,0,5,0,0,0,,,,3,,,,,,1,,,,,,5,
+274,29,19,NAO,E13o,P27,6,5,1,76,PTLp,10,10,0,Untitled.wmf,,3,3,0,7,7,0,,1,3,5,,,,,,1,,6,,,,,
+277,30,20,NA,E14o,P30,2,1,1,41,SSp,11,0,11,Untitled.wmf,Untitled.wmf,0,0,0,11,0,11,,,,1,2,,1,,3,,,6,,,,,
+281,30,20,NAO,E14o,P30,2,1,1,63,SSp,21,21,0,Untitled.wmf,Untitled.wmf,9,9,0,12,12,0,"update: spolit. Two red cells are own clone. Very unlikely belong to this clone
+
+some X-distance between 2Rn and rest of clone. IP derived?",7,,2,5,,,,,,9,,,,,,
+333,31,17,NA,E15o,P21,2,1,1,60,SSp,2,0,2,Untitled.wmf,,0,0,0,2,0,2,,,,2,,,,,,,,,,,,,2
+334,31,17,NO,E15o,P21,2,1,1,73,RSPd,2,0,2,Untitled.wmf,,2,0,2,0,0,0,,,,2,,,,,,,,,,2,,,
+335,31,17,NA,E15o,P21,7,3,4,78,RSPv,2,2,0,Untitled.wmf,,0,0,0,2,2,0,,,,7,,,,,,,,,,,,,2
+340,31,17,NA,E15o,P21,3,1,2,82,VISal,2,0,2,Untitled.wmf,,0,0,0,2,0,2,,,,3,,,,,,,,,,,,,2
+341,31,17,NA,E15o,P21,4,2,2,79,RSPv,2,0,2,Untitled.wmf,,0,0,0,2,0,2,,,,4,,,,,,,,,,,2,,
+356,31,17,NA,E15o,P21,1,1,0,39,SSp,1,1,0,Untitled.wmf,,0,0,0,1,1,0,,,,,,,,,,,,,,,,,
+369,36,23,NAO,E15o,P21,1,1,0,47,ACAv/d,10,0,10,Untitled.wmf,,5,0,5,5,0,5,SOME SEPRATION OF CLONALLY-RELATED OLIGODENDROCYTES,5,,1,,,,,,,,,,5,,,
+371,37,23,NA,E15o,P21,2,1,1,40,ACAd,11,0,11,Untitled.wmf,,0,0,0,11,0,11,,5,,2,,,,,,,,,,,5,,1
+372,37,23,NA,E15o,P21,5,3,2,64,SSp,1,1,0,Untitled.wmf,,0,0,0,1,1,0,,,,5,,,,,,,,,,,,,1
+392,44,26,NA,E15o,P27,2,1,1,41,MOs,3,3,0,Untitled.wmf,,0,0,0,3,3,0,sec 36 - possible red SVZ - NOT COUNTED,,,2,,,,,,,,,,,1,,2
+400,46,27,NA,E15o,P20,1,0,1,82,RSPv,4,0,4,Untitled.wmf,,0,0,0,4,0,4,,,,,,,,,,,,,,,,,
+401,47,28,NA,E15o,P20,3,1,2,48,MOp,19,0,19,Untitled.wmf,,0,0,0,19,0,19,"plus AQP4 stain 
+",,,,,,,,,,,,,,,,
+409,47,28,NO,E15o,P30,2,1,1,61,MOp,14,0,14,Untitled.wmf,,14,0,14,0,0,0,,,,2,,,,,,,8,,,6,,,
+500,68,,NA,E15o,,2,1,1,51,MOs,11,0,11,Untitled.bmp,Untitled.bmp,0,0,0,11,0,11,,,,2,,,,,,1,,9,,,2,,
+501,68,,NA,E15o,,1,1,0,74,SSp,5,5,0,Untitled.bmp,Untitled.bmp,0,0,0,5,5,0,,,,1,,,,,,,,4,,,1,,
+503,71,,NO,E15o,,5,4,1,68,SSp,19,0,19,Untitled.bmp,Untitled.bmp,19,0,19,0,0,0,,,,1,,,4,,,,,,,2,,17,
+504,74,,NO,E13o,,2,1,1,37,PL,15,15,0,Untitled.bmp,Untitled.bmp,15,15,0,0,0,0,,,,2,,,,,,,12,,,3,,,
+505,74,,NA,E13o,,3,2,1,39,PL,4,4,0,Untitled.bmp,Untitled.bmp,0,0,0,4,4,0,,1,,2,,,,,,1,,2,,,1,,
+502,71,,NAO,E15o,,7,4,3,40,MOs,24,24,0,Untitled.bmp,Untitled.bmp,21,21,0,3,3,0,,3,,7,,21,,,,,,,,,,,
+506,77,,NA,E13o,,3,2,1,50,MOp,13,13,0,,Untitled.bmp,0,0,0,13,13,0,,6,,3,5,,,,,,,2,,,,,
+507,77,,NA,E13o,,9,7,2,50,SSp,11,11,0,Untitled.bmp,Untitled.bmp,0,0,0,11,11,0,,0,0,7,7,0,1,0,0,0,0,0,1,0,4,0,0
+508,77,,NAO,E13o,,5,3,2,58,ACAv,9,0,9,Untitled.bmp,Untitled.bmp,8,0,8,1,0,1,,,,,,,,,,,,,,,,,
+509,77,,NO,E13o,,7,3,4,58,SSp,8,0,8,Untitled.bmp,Untitled.bmp,8,0,8,0,0,0,,0,0,2,0,0,5,0,0,0,0,0,0,8,0,0,0
+510,77,,NA,E13o,,17,3,14,58,SSp,11,0,11,Untitled.bmp,Untitled.bmp,0,0,0,11,0,11,Many green cells in same area - possibly overestimating Green N number of clone. Low clone density,0,0,6,6,0,4,0,1,6,0,4,1,0,0,0,0
+513,78,,NA,E13o,,4,1,3,61,SSp,8,0,8,Untitled.bmp,Untitled.bmp,0,0,0,8,0,8,"Red neuron (in gray) far from rest, likely belongs to other clone",0,0,4,3,0,0,0,2,0,0,0,0,0,0,0,3
+514,78,,NA,E13o,,6,3,3,61,MOp,6,0,6,Untitled.bmp,Untitled.bmp,0,0,0,6,0,6,,1,0,4,5,0,0,0,0,2,0,0,0,0,0,0,0
+516,78,,NA,E13o,,8,4,4,78,PTLp,8,0,8,Untitled.bmp,Untitled.bmp,0,0,0,8,0,8,,0,0,5,3,0,1,0,0,2,0,3,0,0,2,0,0
+515,78,,NA,E13o,,14,5,9,78,RSPd,21,21,0,Untitled.bmp,Untitled.bmp,0,0,0,21,21,0,,0,0,14,0,0,0,0,0,0,0,13,0,0,7,0,0
+517,75,,NAO,E13o,,9,6,3,50,SSp,22,22,0,Untitled.bmp,Untitled.bmp,16,16,0,6,6,0,"secions contain septal Red astros, not counted",2,0,6,0,0,3,0,0,0,16,0,0,0,4,0,
+518,75,,NAs,E13o,,8,2,6,50,ACAv,4,0,4,Untitled.bmp,Untitled.bmp,0,0,0,4,0,4,nearby septal Ra not counted ,,,,,,,,,,,,,,1,,3
+519,75,,NAs,E13o,,14,9,5,50,MOp,3,0,3,Untitled.bmp,Untitled.bmp,0,0,0,3,0,3,,,,9,,,,,,5,,,,,3,,
